@@ -19,6 +19,6 @@ Créditos
 --------
 Esta web no podría haber existido de no ser por el amor chachi pistachi de:
 
-- danintendolinux, que no sabe programar webs... :trollface:
-- pyrobisqit, quien ama este emoji: :new_moon_with_face:
-- Anselmo el Nyordo humano, cómo no. Te amo.
+- [danintendolinux](https://github.com/danintendolinux 'Daniel Sánchez'), que no sabe programar webs... :trollface:
+- [pyrobisqit](https://github.com/pyrobisqit 'León Castellejos'), quien ama este emoji: :new_moon_with_face:
+- [Anselmo el Nyordo humano](https://www.youtube.com/watch?v=sA40NxS-qT0 'Tu nyordo favorito'), cómo no. Te amo.

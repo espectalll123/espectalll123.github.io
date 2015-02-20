@@ -3,8 +3,6 @@ title: Aló
 layout: default
 ---
 
-<script src='index.js'></script>
-
 ¿No es maravilloso ser una página web programada por espectalll123? 😻 :kissing_cat:
 
 Contenido
@@ -15,7 +13,7 @@ Sí, contenido. Pero tampoco te esperes gran cosa: un poco de melodioso castella
 -------
 Esto es lo que los avances de la Ciencia en los últimos cientos de años me han permitido hacer. Un botón. En CoffeeScript, si funciona. :3
 
-<button onclick="doAThing()">Púlsame, soy bonito</button>
+<button id="daButton">Púlsame, soy bonito</button>
 
 Créditos
 --------
@@ -24,3 +22,5 @@ Esta web no podría haber existido de no ser por el amor chachi pistachi de:
 - [danintendolinux](https://github.com/danintendolinux 'Daniel Sánchez'), que no sabe programar webs... :trollface:
 - [pyrobisqit](https://github.com/pyrobisqit 'León Castellejos'), quien ama este emoji: :new_moon_with_face:
 - [Anselmo el Nyordo humano](https://www.youtube.com/watch?v=sA40NxS-qT0 'Tu nyordo favorito'), cómo no. Te amo.
+
+<script src='index.js'></script>

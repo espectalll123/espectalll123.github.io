@@ -3,6 +3,8 @@ title: Aló
 layout: default
 ---
 
+<script src='index.js'></script>
+
 ¿No es maravilloso ser una página web programada por espectalll123? 😻 :kissing_cat:
 
 Contenido

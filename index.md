@@ -23,4 +23,4 @@ Esta web no podría haber existido de no ser por el amor chachi pistachi de:
 - [pyrobisqit](https://github.com/pyrobisqit 'León Castellejos'), quien ama este emoji: :new_moon_with_face:
 - [Anselmo el Nyordo humano](https://www.youtube.com/watch?v=sA40NxS-qT0 'Tu nyordo favorito'), cómo no. Te amo.
 
-<script src='index.js'></script>
+<script src='assets/js/index.js'></script>

@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/espectalll123
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://espectalll123.github.io
+  * I am espectalll123 (https://keybase.io/espectalll123) on keybase.
+  * I have a public key with fingerprint C8BE 45E0 5306 0B91 4BF8  D570 DFB9 C71C E3A0 9E32
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.7"
+        },
+        "key": {
+            "fingerprint": "c8be45e053060b914bf8d570dfb9c71ce3a09e32",
+            "host": "keybase.io",
+            "key_id": "DFB9C71CE3A09E32",
+            "uid": "f0e4aad3be48790e4903d8cee6942d19",
+            "username": "espectalll123"
+        },
+        "merkle_root": {
+            "ctime": 1428180102,
+            "hash": "d657e828d2a64dfaf40e8a7ed5407a1c00811d375d060169349aac1116e891dc29fa19798a9ba06fe39bb5cb80404ca06ccaf9337f6b3b1ca65f357b23951a89",
+            "seqno": 191406
+        },
+        "service": {
+            "hostname": "espectalll123.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1428180277,
+    "expire_in": 157680000,
+    "prev": "cfd0b9cdbcb78855db2fd58e91a5670a178341fd05012ef3ec79cdd67d42844f",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFtkntQVFUcxxcQA4eQQAYzqGUpc2JnO+e+zr2bj/HFMCNEoDjbOAb3ce7uhXV3
+u7u84lGAmGIGJZGpk8hMK2KK4mhCguUMlCi+I0UjTMQcJiqcwCnM7iWb0ZnOX+fx
++X1/v+/vd2qfDDKEBPzY9k3szYZPiYDTdwRDpjGVLjYJbqnIZC02iU4Fu3z6zsWv
+wyarKRcXCbwXWxS30eWWsCXHa3zImE35WPUqbpdGAQuyIFOpWcf1YFlx2bHqURVd
+yySyAqZoDGgSMEDgICXIrEQjIMkCJyIoYpIHHCYJTdLh9voey2qa0sxSJO12WdIS
+bimCS5eTiwG3fIrPm3qQAaZ4XiK1NCzitAMHSIkVMWY4ipAgp4NerD60hL0eLPp4
+p9MJCVIveh1Wc504S3W7p5yLPkXnIEWwkAUQEFpZvNehRUoMjTBLsBLBM5Qk8zIF
+MMsjLNEUQDwUAWAhlEhES5pRyHAkxfG8CCFkMMtBSSQ4mYcc4lieE3jAyJjkBIEW
+BRZQgBK1G1HkZY4kkcwIpABFnqFlkkYCQXI05Fndhxe/6XJrxWldBEypflbzFRHr
+deu9+z+LFrvic+QJ/zbTo7p9btHt1CCHz+c54bXqHfAVefSwAixkPRTMEhSXpE3x
+0TFDjXy8OQRCZhMu9CgqzlJ0gkYMC7SlJ8L5+uxlSRu5KAmigFiWpiWBkCWaxRzk
+aQYBHiKWpKAG0QASWCaxiDRaYpCkZaAo+RHL2hx8vF3T9Cp2F+/LU7GpdFNg7DRD
+QIhhenCg/pENM0Ij/vvdIXEzH6RcfL/EFv5VZcGQHBo+MDJzcCTC8UP53MhdRxpi
+qnq6jpxKnPyAiBrbtG+4vGVR5pzEOQX3W9Our+zJb1u9Y3w18KDzo5d6evurGmZd
+GU5aHvlgceWCO+ZjHnXFvo/fGO/uHi35zkAYLxxI3xxXEf500/iCiolF8cHda1Z1
+MmcO1c+alxswEnb3i4PnJt8OS/WftTr8+z86GZWLSpf+sp678dyyy98npt4s641Y
+dehvZ9qeMvN27l4/c2N+0qB9fmxHa2ff1XrblbqciqCNsxuPqu22jL63nGXGU4U/
+xTqDeurP+Xb/fDyUjsp+oTosIT56wBLjr6mz2XuHWvozGkY7vSufLUi3/PZHTN1T
+g3+Fn1m4LXqsqWrnixPmDTV/+rOXXKucnfNaqzpsDS9oPW+bm9w4ye5/ZjDt86bs
+gxtCg8/f96/4ZEZyx6bjfeTd6S+9nLx7b/z9b6+GJ260J49MM3bYOqjO38nNQce2
+JOfZkiccr0S+yr5+ra9t7dmhqKue5wNy2w/su2U2uMp+9d7uORGdMtAV569MqIlv
+OTyOhObB92qL09s+3LonYyHY2VUNZ0pLojsu0XJ5Q+M8JjugecuaXcT+jdcTpje7
+ase2P/FZ6oVqE3pnW+DRkntVt8QdfYWxEZmUce1WemDvyRT14uWq27Wby9YXfH3b
+BYb87x7OqVuZ9OWo9bS1XbnzDw==
+=2Zmq
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/espectalll123
+
+==================================================================
